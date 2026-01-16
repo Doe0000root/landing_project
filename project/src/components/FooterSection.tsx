@@ -79,7 +79,6 @@ export default function FooterSection() {
         </div>
 
         <div className="border-t border-gray-100 pt-8 flex flex-col md:flex-row justify-between items-center text-gray-600 text-sm">
-          <p>&copy; 2024 InsureGuard. All rights reserved.</p>
           <div className="flex gap-6">
             <a href="#" className="hover:text-gray-900">Privacy Policy</a>
             <a href="#" className="hover:text-gray-900">Terms of Service</a>

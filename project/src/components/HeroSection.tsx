@@ -64,7 +64,9 @@ export default function HeroSection({ onGetConsultation, onBuyInsurance }: HeroS
                 </div>
 
                 <div className="flex gap-4 pt-8">
-                  <div className="w-20 h-20 bg-gradient-to-br from-blue-300 to-blue-400 rounded-full"></div>
+                  <div className="w-20 h-20 bg-gradient-to-br from-blue-300 to-blue-400 rounded-full">
+                    <img src="https://www.iconpacks.net/icons/2/free-rating-icon-2796-thumb.png" alt="" />
+                  </div>
                   <div className="flex-1 bg-white rounded-2xl p-4 shadow-lg">
                     <div className="text-xs font-medium text-gray-500 mb-2">Rating</div>
                     <div className="flex gap-1">
