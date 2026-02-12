@@ -17,7 +17,7 @@ export default function HeroSection({ onGetConsultation, onBuyInsurance }: HeroS
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-              Protecting Your Future with Lillia Wojciak
+              Protecting Your Future with Liliia Wojciak
             </h1>
 
             <p className="text-lg text-gray-600 leading-relaxed">

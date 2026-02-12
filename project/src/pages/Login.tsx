@@ -43,7 +43,7 @@ export default function Login({ onNavigate, onSuccess }: LoginProps) {
                 <span className="text-sm font-medium text-red-600">Quick access</span>
               </div>
               <h1 className="text-5xl font-bold text-gray-900 leading-tight mb-6">
-                Welcome Back to InsureGuard
+                Welcome Back to Liliia Wojciak
               </h1>
               <p className="text-lg text-gray-600 leading-relaxed">
                 Access your insurance policies and manage your coverage with ease. Sign in to continue protecting your future.

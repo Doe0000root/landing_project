@@ -52,7 +52,7 @@ export default function Register({ onNavigate, onSuccess }: RegisterProps) {
             <CheckCircle size={32} className="text-green-600" />
           </div>
           <h2 className="text-2xl font-bold text-gray-900 mb-2">Account Created!</h2>
-          <p className="text-gray-600">Welcome to InsureGuard. Redirecting you now...</p>
+          <p className="text-gray-600">Welcome to Liliia Wojciak. Redirecting you now...</p>
         </div>
       </div>
     );
@@ -72,7 +72,7 @@ export default function Register({ onNavigate, onSuccess }: RegisterProps) {
                 Join Thousands of Protected Customers
               </h1>
               <p className="text-lg text-gray-600 leading-relaxed">
-                Create your InsureGuard account and start protecting what matters most. Get instant access to our full range of insurance products.
+                Create your account and start protecting what matters most. Get instant access to our full range of insurance products.
               </p>
             </div>
 
