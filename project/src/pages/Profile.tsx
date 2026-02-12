@@ -52,7 +52,6 @@ export default function Profile({ onNavigate, user, token }: ProfileProps) {
   try {
     await api.insurance.deletePolicy(policyId, token);
 
-    // Update UI immediately
     setPolicies((prev) => prev.filter((p) => p.id !== policyId));
   } catch (error) {
     console.error('Delete failed:', error);

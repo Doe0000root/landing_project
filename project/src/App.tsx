@@ -6,7 +6,6 @@ import Login from './pages/Login';
 import Register from './pages/Register';
 import Profile from './pages/Profile';
 import BuyInsurance from './pages/BuyInsurance';
-
 type Page = 'landing' | 'login' | 'register' | 'profile' | 'buy-insurance';
 
 function App() {

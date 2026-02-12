@@ -30,7 +30,7 @@ app.use(cors());
 app.use(express.json());
 
 
-const db = new sqlite3.Database(join(__dirname, 'insureguard.db'));
+const db = new sqlite3.Database(join(__dirname, 'insure.db'));
 
 db.serialize(() => {
 

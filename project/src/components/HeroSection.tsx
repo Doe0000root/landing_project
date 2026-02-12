@@ -17,7 +17,7 @@ export default function HeroSection({ onGetConsultation, onBuyInsurance }: HeroS
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
-              Protecting Your Future with InsureGuard
+              Protecting Your Future with Lillia Wojciak
             </h1>
 
             <p className="text-lg text-gray-600 leading-relaxed">
@@ -65,7 +65,7 @@ export default function HeroSection({ onGetConsultation, onBuyInsurance }: HeroS
 
                 <div className="flex gap-4 pt-8">
                   <div className="w-20 h-20 bg-gradient-to-br from-blue-300 to-blue-400 rounded-full">
-                    <img src="https://www.iconpacks.net/icons/2/free-rating-icon-2796-thumb.png" alt="" />
+                    <img src="" alt="" />
                   </div>
                   <div className="flex-1 bg-white rounded-2xl p-4 shadow-lg">
                     <div className="text-xs font-medium text-gray-500 mb-2">Rating</div>

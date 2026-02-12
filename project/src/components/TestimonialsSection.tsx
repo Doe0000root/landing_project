@@ -4,24 +4,24 @@ import { Star } from 'lucide-react';
 export default function TestimonialsSection() {
   const testimonials = [
     {
-      name: 'Amarris Black',
+      name: 'Review user #1',
       role: 'Insurance Producer',
       rating: 5,
       text: 'I started a few years ago and they promised excellent customer service.',
       image: 'bg-blue-400',
     },
     {
-      name: 'Annette Black',
+      name: 'Review user #2',
       role: 'Insurance Producer',
       rating: 5,
       text: 'I had a claim recently, and they handled it professionally and promptly!',
       image: 'bg-yellow-400',
     },
     {
-      name: 'Annette Black',
+      name: 'Review user #3',
       role: 'Insurance Producer',
       rating: 5,
-      text: 'InsureGuard helped me find the perfect insurance plan, grateful for their expertise.',
+      text: 'They helped helped me find the perfect insurance plan, grateful for their expertise.',
       image: 'bg-gray-400',
     },
   ];

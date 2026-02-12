@@ -17,19 +17,19 @@ export default function Navigation({ currentPage, onNavigate, user, onLogout }: 
               onClick={() => onNavigate('landing')}
               className="text-2xl font-bold text-gray-900 hover:text-blue-600 transition"
             >
-              InsureGuard
+              Lillia Wojciak
             </button>
             <div className="hidden md:flex gap-8">
               <button onClick={() => onNavigate('landing')} className="text-gray-600 hover:text-gray-900">
                 Home
               </button>
-              <a href="#" className="text-gray-600 hover:text-gray-900">
+              <a href="" className="text-gray-600 hover:text-gray-900">
                 About
               </a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">
+              <a href="" className="text-gray-600 hover:text-gray-900">
                 Contact
               </a>
-              <a href="#" className="text-gray-600 hover:text-gray-900">
+              <a href="" className="text-gray-600 hover:text-gray-900">
                 Blog
               </a>
             </div>

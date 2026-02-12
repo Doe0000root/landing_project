@@ -16,7 +16,7 @@ export default function FooterSection() {
               <Mail size={24} className="text-blue-600 flex-shrink-0" />
               <div>
                 <p className="text-sm text-gray-600">Email</p>
-                <p className="font-semibold text-gray-900">hello@insureguard.com</p>
+                { <p className="font-semibold text-gray-900">youremail@gmail.com</p> /* Your email */}
               </div>
             </div>
 
@@ -24,7 +24,7 @@ export default function FooterSection() {
               <Phone size={24} className="text-blue-600 flex-shrink-0" />
               <div>
                 <p className="text-sm text-gray-600">Phone</p>
-                <p className="font-semibold text-gray-900">+1 (555) 123-4567</p>
+                <p className="font-semibold text-gray-900">+1 (123) 123-4567</p>
               </div>
             </div>
 
@@ -32,7 +32,7 @@ export default function FooterSection() {
               <MapPin size={24} className="text-blue-600 flex-shrink-0" />
               <div>
                 <p className="text-sm text-gray-600">Address</p>
-                <p className="font-semibold text-gray-900">123 Insurance Street, City, State</p>
+                <p className="font-semibold text-gray-900">Your address</p>
               </div>
             </div>
           </div>
